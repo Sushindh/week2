@@ -39,3 +39,11 @@ This project is a **Login and Sign-Up page** built using **React.js** and styled
    ```bash
    git clone https://github.com/Sushindh/week2.git
    cd week2
+
+2. **Install Node Modules**:
+   ```bash
+   npm i
+
+3. **Run the application**:
+   ```bash
+   npm run dev
